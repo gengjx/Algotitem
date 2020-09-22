@@ -33,7 +33,7 @@ public class List1 {
             TreeMap
                 线程
          */
-        List list =new  ArrayList();
+        ArrayList list =new  ArrayList();
         list.add(1);
         list.add(2);
         System.out.println(list);

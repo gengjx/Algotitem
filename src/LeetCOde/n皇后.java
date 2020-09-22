@@ -1,7 +1,7 @@
 //package LeetCOde;
 //
 //import java.util.ArrayList;
-//import java.util.List;
+//import java.util.ListTest;
 //
 //public class n皇后 {
 //    public static void main(String[] args) {
@@ -10,16 +10,16 @@
 //        s.setCharAt();
 //    }
 //
-//    public List<List<String>> solveNQueens(int n) {
-//        List<List<String>> result =new ArrayList<List<String>>();
+//    public ListTest<ListTest<String>> solveNQueens(int n) {
+//        ListTest<ListTest<String>> result =new ArrayList<ListTest<String>>();
 //        int [] array =new int[n];
 //        check(0,array,result);
 //        return result;
 //    }
 //
-//    private void check(int i, int[] array, List<List<String>> result) {
+//    private void check(int i, int[] array, ListTest<ListTest<String>> result) {
 //        if (i==array.length){
-//            List<String> list=new ArrayList<String>();
+//            ListTest<String> list=new ArrayList<String>();
 //
 //            for(int k =0;k<array.length;k++){
 //                String str="";
