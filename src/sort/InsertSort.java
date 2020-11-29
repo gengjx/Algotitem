@@ -20,5 +20,6 @@ public class InsertSort {
             arr[insetIndex+1] =insertVal;
         }
 
+
     }
 }
