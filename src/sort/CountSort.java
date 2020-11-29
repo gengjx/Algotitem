@@ -12,7 +12,7 @@ public class CountSort {
     public static void main(String[] args) {
         //代排数组
         int [] arr ={8,4,5,7,13,62};
-        //基数排序
+        //计数排序
         count(arr);
         //排序输出
         System.out.println(Arrays.toString(arr));
