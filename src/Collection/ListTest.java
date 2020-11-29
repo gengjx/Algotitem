@@ -83,5 +83,7 @@ public class ListTest {
         while (iterator.hasNext()){
             System.out.println(iterator.next());
         }
+
+
     }
 }

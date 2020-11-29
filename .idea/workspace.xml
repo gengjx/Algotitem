@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f40bb94-573b-4bab-a8a2-6f0c81077c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/CountSortNew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/Collection/List1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ Algorithm/Collection/List1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/HuffmanCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/LeetCOde/LeetCode37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ Algorithm/LeetCOde/LeetCode37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/List1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/List1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCOde/LeetCode94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCOde/n皇后.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCOde/n皇后.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bianlifen/p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bianlifen/p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/META-INF/ Algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/new.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,105 +26,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode0908.java">
+        <entry file="file://$PROJECT_DIR$/src/sort/CountSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
+        <entry file="file://$PROJECT_DIR$/src/sort/CountSortNew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/HurrySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#338#347#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java1/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/lazySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
-              <folding>
-                <element signature="e#6252#6253#0" expanded="true" />
-                <element signature="e#6320#6321#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java1/src.zip!/java/util/AbstractList.java">
+        <entry file="file://$PROJECT_DIR$/src/sort/chooseSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java1/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="47" column="6" selection-start-line="47" selection-end-line="47" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sortTest/heapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/heapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/quickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="114">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -185,6 +127,9 @@
         <option value="$PROJECT_DIR$/src/Collection/List.java" />
         <option value="$PROJECT_DIR$/src/Collection/List1.java" />
         <option value="$PROJECT_DIR$/src/Collection/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/Collection/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/sort/CountSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/CountSortNew.java" />
       </list>
     </option>
   </component>
@@ -195,9 +140,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1040" />
+    <option name="x" value="740" />
+    <option name="y" value="365" />
+    <option name="width" value="980" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,14 +169,18 @@
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +212,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ListTest.testLinkedList">
+  <component name="RunManager" selected="Application.CountSort">
+    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.CountSort" />
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeetCode37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCOde.LeetCode37" />
       <module name=" Algorithm" />
@@ -287,32 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCOde.Offer24" />
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCOde.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ridix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortTest.ridix" />
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ListTest.testLinkedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
@@ -329,20 +268,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetTest.testTreeSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Collection" />
+      <option name="MAIN_CLASS_NAME" value="Collection.SetTest" />
+      <option name="METHOD_NAME" value="testTreeSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ridix" />
-      <item itemvalue="Application.Offer24" />
       <item itemvalue="Application.LeetCode37" />
       <item itemvalue="Application.ListTest" />
       <item itemvalue="JUnit.ListTest.testLinkedList" />
+      <item itemvalue="JUnit.SetTest.testTreeSet" />
+      <item itemvalue="Application.CountSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSort" />
+        <item itemvalue="JUnit.SetTest.testTreeSet" />
         <item itemvalue="JUnit.ListTest.testLinkedList" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.LeetCode37" />
-        <item itemvalue="Application.Offer24" />
-        <item itemvalue="Application.ridix" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +332,9 @@
       <workItem from="1600419983911" duration="2608000" />
       <workItem from="1600435323800" duration="3674000" />
       <workItem from="1600583600653" duration="1070000" />
-      <workItem from="1600762250347" duration="4865000" />
+      <workItem from="1600762250347" duration="10850000" />
+      <workItem from="1600829873876" duration="16000" />
+      <workItem from="1606649317208" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1600583850565</created>
@@ -386,25 +343,17 @@
       <option name="project" value="LOCAL" />
       <updated>1600583850565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Algorithm">
+      <created>1600770248473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600770248473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="List1_testMap - 2020.08.30 at 21h 04m 21s.xml">
-      <configuration name="List1.testMap" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="List1_testMap - 2020.08.30 at 21h 05m 07s.xml">
-      <configuration name="List1.testMap" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="List1_testMap - 2020.08.30 at 21h 05m 23s.xml">
-      <configuration name="List1.testMap" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ListTest_testLinkedList - 2020.09.22 at 18h 05m 21s.xml">
-      <configuration name="ListTest.testLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ListTest_testLinkedList - 2020.09.22 at 18h 05m 33s.xml">
-      <configuration name="ListTest.testLinkedList" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ListTest_testLinkedList - 2020.09.22 at 18h 06m 15s.xml">
       <configuration name="ListTest.testLinkedList" configurationId="JUnit" />
     </history-entry>
@@ -417,9 +366,27 @@
     <history-entry file="ListTest_testLinkedList - 2020.09.22 at 18h 08m 04s.xml">
       <configuration name="ListTest.testLinkedList" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ListTest_testLinkedList - 2020.09.22 at 18h 39m 29s.xml">
+      <configuration name="ListTest.testLinkedList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_testTreeSet - 2020.09.22 at 18h 47m 39s.xml">
+      <configuration name="SetTest.testTreeSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_testTreeSet - 2020.09.22 at 18h 52m 25s.xml">
+      <configuration name="SetTest.testTreeSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_testTreeSet - 2020.09.22 at 19h 50m 50s.xml">
+      <configuration name="SetTest.testTreeSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_testTreeSet - 2020.09.22 at 20h 22m 18s.xml">
+      <configuration name="SetTest.testTreeSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetTest_testTreeSet - 2020.09.22 at 20h 22m 36s.xml">
+      <configuration name="SetTest.testTreeSet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127067000" />
+    <option name="totallyTimeSpent" value="134311000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,7 +401,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26206434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +410,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,6 +421,8 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,24 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/HurrySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/lazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sortTest/Shell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -601,13 +552,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/chooseSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -776,23 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/heapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/quickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/new.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode0908.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
+        <state relative-caret-position="1056">
           <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -800,16 +731,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java1/src.zip!/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="47" column="6" selection-start-line="47" selection-end-line="47" selection-end-column="6" />
+        <state relative-caret-position="924">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/java1/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
+        <state relative-caret-position="1760">
           <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
           <folding>
             <element signature="e#6252#6253#0" expanded="true" />
@@ -820,29 +764,78 @@
     </entry>
     <entry file="jar://E:/java1/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="1034">
           <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
+    <entry file="jar://E:/java1/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+        <state relative-caret-position="528">
+          <caret line="47" column="6" selection-start-line="47" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/heapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/quickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/chooseSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        <state relative-caret-position="114">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/HurrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#338#347#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/lazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/CountSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/CountSortNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
