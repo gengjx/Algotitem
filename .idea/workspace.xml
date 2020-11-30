@@ -272,10 +272,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.ListTest" />
-      <item itemvalue="JUnit.ListTest.testLinkedList" />
-      <item itemvalue="JUnit.SetTest.testTreeSet" />
       <item itemvalue="Application.CountSort" />
       <item itemvalue="Application.CountSortNew" />
+      <item itemvalue="JUnit.ListTest.testLinkedList" />
+      <item itemvalue="JUnit.SetTest.testTreeSet" />
     </list>
     <recent_temporary>
       <list>
