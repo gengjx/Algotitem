@@ -12,7 +12,7 @@ public class Quick_2 {
     public static  int getIndex(int [] arr,int low,int high){
         int temp =arr[low];
         while(low<high){
-            while(low<high&&arr[high]>=temp){
+            while(low<high&&arr[high]>temp){
                 high--;
             }
             arr[low] =arr[high];
