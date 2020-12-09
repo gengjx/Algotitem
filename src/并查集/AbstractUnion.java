@@ -3,7 +3,10 @@ package 并查集;
 /**
  * @Auther: gjx
  * @Date: 2020/12/8 - 12 - 08 - 10:41
- * @Description: 并查集
+ * @Description: 并查集   并查集的操作意义 实现一种数据结构判断两个点直接是否能够连接
+ * 并查集实现的功能:
+ *      1.查询某一个点的父亲
+ *      2.合并两个点所属于的集合
  * @version: 1.0
  */
 public  abstract  class AbstractUnion {

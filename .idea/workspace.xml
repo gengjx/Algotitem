@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f40bb94-573b-4bab-a8a2-6f0c81077c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/并查集/AbstractUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/QuickFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/QuickUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/QuickUnion_Find_Weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/QuickUnion_Find_height.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/Hannoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/sortTest/Quick_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ Algorithm/sortTest/Quick_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/并查集/AbstractUnion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/并查集/AbstractUnion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,32 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/递归/ClimbStairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding>
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,7 +97,6 @@
         <option value="$PROJECT_DIR$/src/enums/ResultCode.java" />
         <option value="$PROJECT_DIR$/src/enums/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/sortTest/Quick_2.java" />
-        <option value="$PROJECT_DIR$/src/并查集/AbstractUnion.java" />
         <option value="$PROJECT_DIR$/src/并查集/QuickFind.java" />
         <option value="$PROJECT_DIR$/src/并查集/QuickUnion.java" />
         <option value="$PROJECT_DIR$/src/并查集/QuickUnion_Find_Weight.java" />
@@ -132,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/递归/climbStairs.java" />
         <option value="$PROJECT_DIR$/src/递归/ClimbStairs.java" />
         <option value="$PROJECT_DIR$/src/递归/Hannoi.java" />
+        <option value="$PROJECT_DIR$/src/并查集/AbstractUnion.java" />
       </list>
     </option>
   </component>
@@ -169,7 +144,7 @@
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="递归" type="462c0819:PsiDirectoryNode" />
+              <item name="并查集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,7 +317,7 @@
       <workItem from="1607244147498" duration="622000" />
       <workItem from="1607306247442" duration="18620000" />
       <workItem from="1607392265898" duration="11598000" />
-      <workItem from="1607480793964" duration="2831000" />
+      <workItem from="1607480793964" duration="3168000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1600583850565</created>
@@ -379,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607336578759</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algorithm">
+      <created>1607483646014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607483646015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -415,7 +397,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177708000" />
+    <option name="totallyTimeSpent" value="178045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,7 +412,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20657277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20657277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,7 +421,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27053824" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27053824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -890,17 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion_Find_height.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
@@ -923,10 +894,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -937,13 +912,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
+    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="154">
+          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding>
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
           </folding>
         </state>
       </provider>
