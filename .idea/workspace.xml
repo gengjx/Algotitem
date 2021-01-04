@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f40bb94-573b-4bab-a8a2-6f0c81077c7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/分治算法/归并排序/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/分治算法/快速排序/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/分治算法/最大子序列问题/MaxSubSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/大数乘法/BigNumberMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心算法/backpack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ Algorithm/sortTest/Quick_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ Algorithm/sortTest/Quick_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/并查集/AbstractUnion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/并查集/AbstractUnion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bianlifen/p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bianlifen/p3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/递归/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/Fibonacci.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,16 +29,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
+        <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="348">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -41,6 +55,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -56,19 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/AutuoCar.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/TesilaCar.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/baomaCar.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/Test.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/IceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/OIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/SIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/Factory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/OFactory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/SIceFactory.java" />
         <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/Test.java" />
         <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/SmallIceCream.java" />
         <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/BigIceCream.java" />
@@ -101,12 +103,25 @@
         <option value="$PROJECT_DIR$/src/并查集/QuickUnion.java" />
         <option value="$PROJECT_DIR$/src/并查集/QuickUnion_Find_Weight.java" />
         <option value="$PROJECT_DIR$/src/并查集/QuickUnion_Find_height.java" />
-        <option value="$PROJECT_DIR$/src/递归/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/递归/climvStairs.java" />
         <option value="$PROJECT_DIR$/src/递归/climbStairs.java" />
         <option value="$PROJECT_DIR$/src/递归/ClimbStairs.java" />
         <option value="$PROJECT_DIR$/src/递归/Hannoi.java" />
         <option value="$PROJECT_DIR$/src/并查集/AbstractUnion.java" />
+        <option value="$PROJECT_DIR$/src/回溯经典问题/NQueue.java" />
+        <option value="$PROJECT_DIR$/src/回溯经典问题/Nqueen.java" />
+        <option value="$PROJECT_DIR$/src/回溯经典问题/Nqueen_2.java" />
+        <option value="$PROJECT_DIR$/src/回溯经典问题/Nqueen_3.java" />
+        <option value="$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_3.java" />
+        <option value="$PROJECT_DIR$/src/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/分治算法/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/分治算法/归并排序/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/分治算法/快速排序/quickSort.java" />
+        <option value="$PROJECT_DIR$/src/分治算法/快速排序/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/分治算法/最大子序列问题/MaxSubSum.java" />
+        <option value="$PROJECT_DIR$/src/贪心算法/backpack.java" />
+        <option value="$PROJECT_DIR$/src/大数乘法/BigNumberMul.java" />
+        <option value="$PROJECT_DIR$/src/递归/Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -117,10 +132,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="740" />
-    <option name="y" value="365" />
-    <option name="width" value="980" />
-    <option name="height" value="1060" />
+    <option name="x" value="471" />
+    <option name="y" value="231" />
+    <option name="width" value="785" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,14 +161,12 @@
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="并查集" type="462c0819:PsiDirectoryNode" />
+              <item name="递归" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,13 +200,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Hannoi.test">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="并查集.Test2" />
+  <component name="RunManager" selected="Application.LeetcodeTest">
+    <configuration name="LeetcodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="大数乘法.LeetcodeTest" />
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="并查集.*" />
+          <option name="PATTERN" value="大数乘法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="并查集.Test3" />
+    <configuration name="动态规划_背包问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="贪心算法.动态规划_背包问题" />
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="并查集.*" />
+          <option name="PATTERN" value="贪心算法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,68 +227,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimbStairs.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BigNumberMul.testBigMul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归.*" />
+          <option name="PATTERN" value="大数乘法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="递归" />
-      <option name="MAIN_CLASS_NAME" value="递归.ClimbStairs" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="大数乘法" />
+      <option name="MAIN_CLASS_NAME" value="大数乘法.BigNumberMul" />
+      <option name="METHOD_NAME" value="testBigMul" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxSubSum.testbaoli" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归.*" />
+          <option name="PATTERN" value="分治算法.最大子序列问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="递归" />
-      <option name="MAIN_CLASS_NAME" value="递归.Fibonacci" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="分治算法.最大子序列问题" />
+      <option name="MAIN_CLASS_NAME" value="分治算法.最大子序列问题.MaxSubSum" />
+      <option name="METHOD_NAME" value="testbaoli" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hannoi.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuickSort.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归.*" />
+          <option name="PATTERN" value="分治算法.快速排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="递归" />
-      <option name="MAIN_CLASS_NAME" value="递归.Hannoi" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="分治算法.快速排序" />
+      <option name="MAIN_CLASS_NAME" value="分治算法.快速排序.QuickSort" />
+      <option name="METHOD_NAME" value="testQuickSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Test3" />
-      <item itemvalue="JUnit.Fibonacci.test" />
-      <item itemvalue="JUnit.ClimbStairs.test" />
-      <item itemvalue="JUnit.Hannoi.test" />
+      <item itemvalue="Application.动态规划_背包问题" />
+      <item itemvalue="Application.LeetcodeTest" />
+      <item itemvalue="JUnit.QuickSort.testQuickSort" />
+      <item itemvalue="JUnit.MaxSubSum.testbaoli" />
+      <item itemvalue="JUnit.BigNumberMul.testBigMul" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Hannoi.test" />
-        <item itemvalue="JUnit.ClimbStairs.test" />
-        <item itemvalue="JUnit.Fibonacci.test" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.LeetcodeTest" />
+        <item itemvalue="JUnit.BigNumberMul.testBigMul" />
+        <item itemvalue="Application.动态规划_背包问题" />
+        <item itemvalue="JUnit.MaxSubSum.testbaoli" />
+        <item itemvalue="JUnit.QuickSort.testQuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +332,19 @@
       <workItem from="1607244147498" duration="622000" />
       <workItem from="1607306247442" duration="18620000" />
       <workItem from="1607392265898" duration="11598000" />
-      <workItem from="1607480793964" duration="3168000" />
+      <workItem from="1607480793964" duration="7509000" />
+      <workItem from="1607583519516" duration="2923000" />
+      <workItem from="1607588734484" duration="7971000" />
+      <workItem from="1607652482722" duration="56000" />
+      <workItem from="1607652548145" duration="595000" />
+      <workItem from="1607656561432" duration="6536000" />
+      <workItem from="1607783838178" duration="12761000" />
+      <workItem from="1607912258590" duration="339000" />
+      <workItem from="1607912766506" duration="9581000" />
+      <workItem from="1607998667814" duration="3024000" />
+      <workItem from="1608093219345" duration="2543000" />
+      <workItem from="1608104532282" duration="4493000" />
+      <workItem from="1609598476835" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1600583850565</created>
@@ -361,43 +388,50 @@
       <option name="project" value="LOCAL" />
       <updated>1607483646015</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="并查集修改">
+      <created>1607484069991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607484069991</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Fibonacci_test - 2020.12.09 at 10h 31m 25s.xml">
-      <configuration name="Fibonacci.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 21h 20m 07s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Fibonacci_test - 2020.12.09 at 10h 32m 15s.xml">
-      <configuration name="Fibonacci.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 21h 20m 49s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Fibonacci_test - 2020.12.09 at 10h 41m 58s.xml">
-      <configuration name="Fibonacci.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 50m 47s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Fibonacci_test - 2020.12.09 at 10h 42m 29s.xml">
-      <configuration name="Fibonacci.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 50m 59s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClimbStairs_test - 2020.12.09 at 10h 53m 34s.xml">
-      <configuration name="ClimbStairs.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 52m 04s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClimbStairs_test - 2020.12.09 at 10h 55m 58s.xml">
-      <configuration name="ClimbStairs.test" configurationId="JUnit" />
+    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 52m 12s.xml">
+      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ClimbStairs_test - 2020.12.09 at 10h 56m 09s.xml">
-      <configuration name="ClimbStairs.test" configurationId="JUnit" />
+    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 47m 22s.xml">
+      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hannoi_test - 2020.12.09 at 11h 10m 56s.xml">
-      <configuration name="Hannoi.test" configurationId="JUnit" />
+    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 47m 49s.xml">
+      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hannoi_test - 2020.12.09 at 11h 11m 37s.xml">
-      <configuration name="Hannoi.test" configurationId="JUnit" />
+    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 48m 07s.xml">
+      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hannoi_test - 2020.12.09 at 11h 12m 16s.xml">
-      <configuration name="Hannoi.test" configurationId="JUnit" />
+    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 13h 00m 50s.xml">
+      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178045000" />
+    <option name="totallyTimeSpent" value="233867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,20 +443,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20657277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27053824" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.23654391" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
@@ -430,8 +464,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50033534" side_tool="true" weight="0.407932" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,7 +478,7 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
-      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" weight="0.32997987" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +486,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm" />
+    <MESSAGE value="并查集修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="并查集修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,6 +510,12 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/分治算法/归并排序/MergeSort.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -481,174 +524,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/TesilaCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/AutuoCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/简单工厂/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/OIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/SIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/OFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/SIceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/IceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/SmallIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/BigIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/SmallAppleIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/BigAppleIceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/IceCreamFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/AppleIceCreamFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式.java" />
-    <entry file="file://$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/IBuildRobot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/Director.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -821,22 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/enums/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/quickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -848,13 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortTest/Quick_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -894,14 +746,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
+    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -912,21 +791,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/bianlifen/p3.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1]两数之和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+        <state relative-caret-position="220">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
+    <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortTest/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/分治算法/归并排序/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortTest/Quick_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/分治算法/最大子序列.java" />
+    <entry file="file://$PROJECT_DIR$/src/分治算法/快速排序/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java1/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/分治算法/最大子序列问题/MaxSubSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心算法/backpack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/大数乘法/BigNumberMul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="94" column="7" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
         </state>
       </provider>
     </entry>

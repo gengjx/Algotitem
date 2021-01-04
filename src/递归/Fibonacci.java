@@ -12,19 +12,19 @@ public class Fibonacci {
 
     //递归
     public int fibonacci(int n){
-        if (n<=2){
+        if (n<2){
             return 1;
         }
         return fibonacci(n-1)+fibonacci(n-2);
     }
     //非递归
     public int fibonacci1(int n){
-        if (n<=2){
+        if (n<2){
             return 1;
         }
         int first =1;
         int second=1;
-        for (int i = 3; i <=n ; i++) {
+        for (int i = 2; i <=n ; i++) {
             second = second+first;
             first =second-first;
         }
