@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f40bb94-573b-4bab-a8a2-6f0c81077c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治算法/归并排序/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治算法/快速排序/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治算法/最大子序列问题/MaxSubSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/大数乘法/BigNumberMul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/贪心算法/backpack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode_628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/leetcode_1232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/mountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_1202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_721.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/LeetCode_婴儿的名字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/leetcode_947.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bianlifen/p2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bianlifen/p3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/递归/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/Fibonacci.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,19 +30,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_1202.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,16 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/工厂方法模式创建/Test.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/SmallIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/BigIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/SmallAppleIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/BigAppleIceCream.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/IceCreamFactory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/AppleIceCreamFactory.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/工厂模式/抽象工厂/Test.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/建造者模式/IBuildRoot.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/建造者模式/Director.java" />
         <option value="$PROJECT_DIR$/src/设计模式/建造者模式/Robot.java" />
         <option value="$PROJECT_DIR$/src/设计模式/建造者模式/IBuildRobotBuilder.java" />
         <option value="$PROJECT_DIR$/src/设计模式/建造者模式/Test.java" />
@@ -122,6 +105,16 @@
         <option value="$PROJECT_DIR$/src/贪心算法/backpack.java" />
         <option value="$PROJECT_DIR$/src/大数乘法/BigNumberMul.java" />
         <option value="$PROJECT_DIR$/src/递归/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Test/mountTest.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_547.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_130.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_200.java" />
+        <option value="$PROJECT_DIR$/src/LeetCOde/leetcode_1232.java" />
+        <option value="$PROJECT_DIR$/src/LeetCOde/LeetCode_628.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_721.java" />
+        <option value="$PROJECT_DIR$/src/并查集/leetcode_947.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_婴儿的名字.java" />
+        <option value="$PROJECT_DIR$/src/并查集/LeetCode_1202.java" />
       </list>
     </option>
   </component>
@@ -132,8 +125,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="471" />
-    <option name="y" value="231" />
+    <option name="x" value="775" />
+    <option name="y" value="25" />
     <option name="width" value="785" />
     <option name="height" value="850" />
   </component>
@@ -143,8 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,12 +152,14 @@
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="递归" type="462c0819:PsiDirectoryNode" />
+              <item name="并查集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +171,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tydk/BZB_ZH/bianzhunban/ucc-mall" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -200,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetcodeTest">
+  <component name="RunManager" selected="JUnit.LeetCode_婴儿的名字.test">
     <configuration name="LeetcodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="大数乘法.LeetcodeTest" />
       <module name=" Algorithm" />
@@ -227,6 +220,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.mountTest" />
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BigNumberMul.testBigMul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
@@ -243,33 +249,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubSum.testbaoli" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode_婴儿的名字.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="分治算法.最大子序列问题.*" />
+          <option name="PATTERN" value="并查集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="分治算法.最大子序列问题" />
-      <option name="MAIN_CLASS_NAME" value="分治算法.最大子序列问题.MaxSubSum" />
-      <option name="METHOD_NAME" value="testbaoli" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="分治算法.快速排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="分治算法.快速排序" />
-      <option name="MAIN_CLASS_NAME" value="分治算法.快速排序.QuickSort" />
-      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="PACKAGE_NAME" value="并查集" />
+      <option name="MAIN_CLASS_NAME" value="并查集.LeetCode_婴儿的名字" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -278,17 +268,17 @@
     <list>
       <item itemvalue="Application.动态规划_背包问题" />
       <item itemvalue="Application.LeetcodeTest" />
-      <item itemvalue="JUnit.QuickSort.testQuickSort" />
-      <item itemvalue="JUnit.MaxSubSum.testbaoli" />
+      <item itemvalue="Application.mountTest" />
       <item itemvalue="JUnit.BigNumberMul.testBigMul" />
+      <item itemvalue="JUnit.LeetCode_婴儿的名字.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode_婴儿的名字.test" />
+        <item itemvalue="Application.mountTest" />
         <item itemvalue="Application.LeetcodeTest" />
         <item itemvalue="JUnit.BigNumberMul.testBigMul" />
         <item itemvalue="Application.动态规划_背包问题" />
-        <item itemvalue="JUnit.MaxSubSum.testbaoli" />
-        <item itemvalue="JUnit.QuickSort.testQuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -345,6 +335,19 @@
       <workItem from="1608093219345" duration="2543000" />
       <workItem from="1608104532282" duration="4493000" />
       <workItem from="1609598476835" duration="659000" />
+      <workItem from="1609742252478" duration="3228000" />
+      <workItem from="1609812781607" duration="1079000" />
+      <workItem from="1609816276439" duration="209000" />
+      <workItem from="1610614308750" duration="3936000" />
+      <workItem from="1610674774444" duration="9284000" />
+      <workItem from="1610721043035" duration="5496000" />
+      <workItem from="1610774267354" duration="1365000" />
+      <workItem from="1610858436698" duration="3275000" />
+      <workItem from="1610951989604" duration="3185000" />
+      <workItem from="1611038991816" duration="9000" />
+      <workItem from="1611047580407" duration="5709000" />
+      <workItem from="1611107390039" duration="15958000" />
+      <workItem from="1611195812445" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1600583850565</created>
@@ -395,43 +398,50 @@
       <option name="project" value="LOCAL" />
       <updated>1607484069991</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="N皇后问题">
+      <created>1609742305579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609742305579</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 21h 20m 07s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 14h 50m 45s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 21h 20m 49s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 42m 21s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 50m 47s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 52m 25s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 50m 59s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 53m 01s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 52m 04s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 53m 11s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxSubSum_testbaoli - 2020.12.14 at 22h 52m 12s.xml">
-      <configuration name="MaxSubSum.testbaoli" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 53m 54s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 47m 22s.xml">
-      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 55m 01s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 47m 49s.xml">
-      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 15h 56m 03s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 12h 48m 07s.xml">
-      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 16h 06m 31s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BigNumberMul_testBigMul - 2020.12.16 at 13h 00m 50s.xml">
-      <configuration name="BigNumberMul.testBigMul" configurationId="JUnit" />
+    <history-entry file="LeetCode_婴儿的名字_test - 2021.01.20 at 16h 19m 48s.xml">
+      <configuration name="LeetCode_婴儿的名字.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233867000" />
+    <option name="totallyTimeSpent" value="288126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,31 +453,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3286385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.23654391" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50033534" side_tool="true" weight="0.407932" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Codota" />
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="bottom" id="Sequence" order="13" />
+      <window_info anchor="bottom" id="Tail" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -479,6 +489,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
       <window_info anchor="right" id="leetcode" order="10" side_tool="true" weight="0.32997987" />
+      <window_info anchor="right" id="Codota" order="11" />
+      <window_info anchor="right" id="Key Promoter X" order="12" weight="0.32997987" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +499,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Algorithm" />
     <MESSAGE value="并查集修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="并查集修改" />
+    <MESSAGE value="N皇后问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="N皇后问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -524,102 +537,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/IBuildRobotBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java1/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/建造者模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/原型模式/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java1/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="1183" column="26" selection-start-line="1183" selection-start-column="26" selection-end-line="1183" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/原型模式/PrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/类的适配器模式/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/类的适配器模式/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/类的适配器模式/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -703,60 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/enums/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/QuickFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="41" selection-start-line="41" selection-end-line="51" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="39" selection-start-line="39" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion_Find_height.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mysql/事务/事务.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion_Find_Weight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="86" column="53" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/回溯经典问题/N皇后问题/Nqueen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -792,27 +655,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bianlifen/p3.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1]两数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1]两数之和.java" />
     <entry file="file://$PROJECT_DIR$/src/Collection/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
@@ -901,22 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/enums/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/贪心算法/backpack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -934,6 +761,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/递归/Hannoi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -941,10 +775,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/递归/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/并查集/AbstractUnion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="440">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/QuickFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion_Find_height.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion_Find_Weight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1492">
+          <caret line="75" column="33" lean-forward="true" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/mountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_130.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/QuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/leetcode_1232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_628.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mysql/事务/事务.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/List1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1302">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_547.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_721.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="102" column="3" selection-start-line="102" selection-start-column="3" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/leetcode_947.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_婴儿的名字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_1202.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
