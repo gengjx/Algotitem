@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f40bb94-573b-4bab-a8a2-6f0c81077c7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCOde/LeetCode_989.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/并查集/LeetCode_1202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/并查集/LeetCode_1202.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,75 +22,45 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_989.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="77" selection-start-line="77" selection-end-line="97" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_66.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_67.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_1202.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_43.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="41" selection-start-line="41" selection-end-line="141" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/leetcode_947.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="949">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_婴儿的名字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_547.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_200.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_130.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/并查集/LeetCode_721.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
-              <folding>
-                <element signature="e#2806#2814#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="430">
+              <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -115,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/设计模式/建造者模式/Robot.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/建造者模式/IBuildRobotBuilder.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/建造者模式/Test.java" />
         <option value="$PROJECT_DIR$/src/设计模式/原型模式/User.java" />
         <option value="$PROJECT_DIR$/src/设计模式/原型模式/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/src/设计模式/适配器模式/Target.java" />
@@ -166,6 +136,9 @@
         <option value="$PROJECT_DIR$/src/并查集/leetcode_947.java" />
         <option value="$PROJECT_DIR$/src/并查集/LeetCode_婴儿的名字.java" />
         <option value="$PROJECT_DIR$/src/并查集/LeetCode_1202.java" />
+        <option value="$PROJECT_DIR$/src/LeetCOde/LeetCode_989.java" />
+        <option value="$PROJECT_DIR$/src/LeetCOde/LeetCode_67.java" />
+        <option value="$PROJECT_DIR$/src/LeetCOde/LeetCode_43.java" />
       </list>
     </option>
   </component>
@@ -187,6 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +173,12 @@
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name=" Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCOde" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name=" Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -216,8 +197,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,49 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode_1202.test">
-    <configuration name="LeetcodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="大数乘法.LeetcodeTest" />
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="大数乘法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.mountTest" />
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BigNumberMul.testBigMul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name=" Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="大数乘法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="大数乘法" />
-      <option name="MAIN_CLASS_NAME" value="大数乘法.BigNumberMul" />
-      <option name="METHOD_NAME" value="testBigMul" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LeetCode_43.test">
     <configuration name="LeetCode_1202.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name=" Algorithm" />
       <extension name="coverage">
@@ -304,6 +241,54 @@
       </extension>
       <option name="PACKAGE_NAME" value="并查集" />
       <option name="MAIN_CLASS_NAME" value="并查集.LeetCode_1202" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_43.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCOde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCOde" />
+      <option name="MAIN_CLASS_NAME" value="LeetCOde.LeetCode_43" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_67.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCOde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCOde" />
+      <option name="MAIN_CLASS_NAME" value="LeetCOde.LeetCode_67" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_989.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name=" Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCOde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCOde" />
+      <option name="MAIN_CLASS_NAME" value="LeetCOde.LeetCode_989" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -327,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetcodeTest" />
-      <item itemvalue="Application.mountTest" />
-      <item itemvalue="JUnit.BigNumberMul.testBigMul" />
       <item itemvalue="JUnit.LeetCode_婴儿的名字.test" />
       <item itemvalue="JUnit.LeetCode_1202.test" />
+      <item itemvalue="JUnit.LeetCode_989.test" />
+      <item itemvalue="JUnit.LeetCode_67.test" />
+      <item itemvalue="JUnit.LeetCode_43.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode_43.test" />
+        <item itemvalue="JUnit.LeetCode_67.test" />
+        <item itemvalue="JUnit.LeetCode_989.test" />
         <item itemvalue="JUnit.LeetCode_1202.test" />
         <item itemvalue="JUnit.LeetCode_婴儿的名字.test" />
-        <item itemvalue="Application.mountTest" />
-        <item itemvalue="Application.LeetcodeTest" />
-        <item itemvalue="JUnit.BigNumberMul.testBigMul" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +394,8 @@
       <workItem from="1611047580407" duration="5709000" />
       <workItem from="1611107390039" duration="15958000" />
       <workItem from="1611195812445" duration="8821000" />
-      <workItem from="1611211048016" duration="2572000" />
+      <workItem from="1611211048016" duration="3871000" />
+      <workItem from="1611283755885" duration="14954000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1600583850565</created>
@@ -474,43 +460,50 @@
       <option name="project" value="LOCAL" />
       <updated>1611197385402</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="N皇后问题">
+      <created>1611214740636</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611214740636</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 02m 06s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 16h 56m 02s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 02m 56s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 16h 56m 23s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 04m 45s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 16h 57m 49s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 05m 09s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 16h 57m 57s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 07m 02s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 16h 58m 30s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 07m 50s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 17h 05m 29s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 08m 09s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 17h 05m 38s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 09m 40s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 17h 05m 57s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 10m 01s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 17h 17m 53s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode_1202_test - 2021.01.21 at 15h 10m 09s.xml">
-      <configuration name="LeetCode_1202.test" configurationId="JUnit" />
+    <history-entry file="LeetCode_43_test - 2021.01.22 at 17h 20m 58s.xml">
+      <configuration name="LeetCode_43.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297993000" />
+    <option name="totallyTimeSpent" value="314246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,7 +518,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33333334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33802816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +527,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.40651557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.23512748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -606,38 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/类的适配器模式/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/对象的适配器模式/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/对象的适配器模式/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/设计模式/适配器模式/对象的适配器模式/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/设计模式/桥接模式/Brand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1000,6 +961,40 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_989.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="77" selection-start-line="77" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCOde/LeetCode_43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
         </state>
       </provider>
     </entry>
